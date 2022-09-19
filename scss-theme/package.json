@@ -1,0 +1,16 @@
+{
+  "name": "scss-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.54.9",
+    "vite": "^3.1.3"
+  }
+}

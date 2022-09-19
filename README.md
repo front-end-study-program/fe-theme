@@ -2,7 +2,7 @@
 
 前端主题切换方案
 
-## less 变量
+## less 变量（参考 ant-design）
 
 - 定制主题
 
@@ -90,3 +90,7 @@
     localStorage.setItem("theme", theme);
   }
   ```
+
+## scss 变量（参考 element-plus）
+
+- 定制主题
